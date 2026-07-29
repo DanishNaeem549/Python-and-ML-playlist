@@ -7,7 +7,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
-
 ## 📖 About
 
 This repository contains all the Python programs and notes covered throughout my Python learning journey. It is designed for:
