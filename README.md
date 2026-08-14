@@ -18,7 +18,6 @@ This repository contains all the Python programs and notes covered throughout my
 
 The repository starts from the basics and gradually moves towards intermediate Python concepts.
 
-
 ## 📚 Topics Covered
 
 ### 🔹 Python Basics
