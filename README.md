@@ -1,4 +1,4 @@
-# 🐍 Complete Python Programming Playlist
+# 🐍 Complete Python Programming and ML Playlist
 
 > A beginner to intermediate Python programming repository covering all the essential concepts with examples, practice programs, and mini-projects.
 
