@@ -199,7 +199,7 @@ python3 filename.py
 
 After completing this repository, you will be able to:
 
-- Write Python programs confidently
+- Write Python programs confidently and clean code
 - Solve programming problems
 - Understand Object-Oriented Programming
 - Work with files and exceptions
