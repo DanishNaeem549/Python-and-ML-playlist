@@ -12,7 +12,7 @@ This repository contains all the Python programs and notes covered throughout my
 
 - 🎓 Students
 - 💻 Beginners
-- 🚀 Future Python Developers
+- 🚀 Future Python Developers and ai engineer
 
 The repository starts from the basics and gradually moves towards intermediate Python concepts.
 
