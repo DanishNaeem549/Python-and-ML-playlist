@@ -3,7 +3,7 @@ youstr =  input("enter you choice")
 youdict = {"s": 1, "w": -1, "g" : 0}
 you = youdict[youstr]
 
-
+# conditional statement 
 if(computer == you):
     print("match draw")
 else:
